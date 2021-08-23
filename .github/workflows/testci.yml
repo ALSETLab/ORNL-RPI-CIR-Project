@@ -55,7 +55,7 @@ jobs:
         with:
           # The arguments for the `git add` command (see the paragraph below for more info)
           # Default: '.'
-          add: /home/runner/work/testing-CI/testing-CI/BouncingBall_res.mat
+          add: /home/runner/work/ORNL-RPI-CIR-Project/ORNL-RPI-CIR-Project/BouncingBall_res.mat
 
           # The name of the user that will be displayed as the author of the commit
           # Default: depends on the default_author input
